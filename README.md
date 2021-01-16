@@ -12,9 +12,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # Description
 
-```
-Place your own "google-services.json" file into your app's  <b project/your app_name/android/app folder />
-```
+- Place your own ```google-services.json``` file into your app's  ```/android/app``` folder.
 
 # Screenshot
 
